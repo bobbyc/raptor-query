@@ -1,0 +1,38 @@
+{
+  "name": "raptor-query",
+  "version": "0.1.0",
+  "description": "Raptor query tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobbyc/raptor-query.git"
+  },
+  "keywords": [
+    "performance",
+    "testing",
+    "firefox-os",
+    "b2g"
+  ],
+  "author": {
+    "name": "Bobby Chien"
+  },
+  "license": "Apache",
+  "bugs": {
+    "url": "https://bugzilla.mozilla.org"
+  },
+  "homepage": "https://github.com/bobbyc/raptor-query",
+  "devDependencies": {},
+  "dependencies": {
+    "console.table": "^0.4.0",
+    "debug": "^2.1.0",
+    "influx": "^3.0.0"
+  },
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "bobbyc",
+      "email": "bchien@mozilla.com"
+    }
+  ],
+  "directories": {}
+}
