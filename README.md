@@ -7,15 +7,25 @@ For documentation and usage, please visit the [Raptor wiki](https://developer.mo
 
 ## Environment Variable
 
-RAPTOR_HOST
+### RAPTOR_HOST
 
-RAPTOR_PORT
+Indicate raptor-influxdb location
 
-RAPTOR_USERNAME
+### RAPTOR_PORT
 
-RAPTOR_PASSWORD
+The connection port to raptor-influxdb. Default port is 8086.
 
-RAPTOR_DATABASE
+### RAPTOR_USERNAME
+
+Username to connect influxdb server
+
+### RAPTOR_PASSWORD
+
+Password to connect influxdb server
+
+### RAPTOR_DATABASE
+
+Database name for raptor DB. Default database is 'raptor'.
 
 ## Maintainers
 
