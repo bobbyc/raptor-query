@@ -25,7 +25,8 @@
   "dependencies": {
     "console.table": "^0.4.0",
     "debug": "^2.1.0",
-    "influx": "^3.0.0"
+    "influx": "^3.0.0",
+    "nodeunit": "^0.9.1"
   },
   "scripts": {},
   "maintainers": [
